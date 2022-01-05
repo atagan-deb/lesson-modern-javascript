@@ -1,0 +1,6 @@
+モダンjavascript
+
+・ES6 === ES2015
+・Babel（トランスコンパイラ）
+・npm or yarn
+・webpack（モジュールバンドラー）
